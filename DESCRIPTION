@@ -3,11 +3,14 @@ Package: Compendium title
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.1
 Authors@R: 
-    person(given = "Karthik",
-           family = "Ram",
-           role = c("aut", "cre"),
-           email = "karthik.ram@gmail.com",
-           comment = c(ORCID = "0000-0002-0233-1757"))
+    Authors@R: 
+      person(
+        given = "Gerald", 
+        family = "Mashange", 
+        email = "geraldmashange@icloud.com", 
+        role = c("aut", "cre"), 
+        comment = c(ORCID = "0000-0001-5921-2081")
+        )
 Description: Compendium description
 License: MIT + file LICENSE
 Depends: 
